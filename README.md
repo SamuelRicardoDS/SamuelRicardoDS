@@ -1,7 +1,7 @@
 ### Heyy, sou o Samuel 👷‍♂️👋
 
-- 🔭 I’m currently working on plotly
-- 🌱 I’m currently learning React
+- 🔭 I’m currently working on reactjs
+- 🌱 I’m currently learning C#
 - 📫 How to reach me: samuelricardods@gmail.com 
  <div>
   <a href="https://github.com/SamuelRicardoDS">
