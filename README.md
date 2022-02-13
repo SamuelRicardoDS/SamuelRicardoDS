@@ -1,7 +1,7 @@
 ### Heyy, sou o Samuel Ricardo 👷‍♂️👋
 
 - 🔭 I’m currently working on reactjs
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C# and Java
 - 📫 How to reach me: samuelricardods@gmail.com 
  <div>
   <a href="https://github.com/SamuelRicardoDS">
