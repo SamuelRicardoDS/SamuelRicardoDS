@@ -1,7 +1,7 @@
 ### Heyy, sou o Samuel Ricardo 👷‍♂️👋
 
 - 🔭 I’m currently working on React.js
-- 🌱 I’m currently learning Node.js and MySQL
+- 🌱 I’m currently learning Node.js and SQL
 - 📫 How to reach me: samuelricardods@gmail.com 
  <div>
   <a href="https://github.com/SamuelRicardoDS">
