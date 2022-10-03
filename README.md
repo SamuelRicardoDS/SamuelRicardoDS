@@ -1,6 +1,6 @@
 ### Heyy, sou o Samuel Ricardo 👷‍♂️👋
 
-- 🔭 I’m currently working on React.js
+- 🔭 I’m currently working on React
 - 🌱 I’m currently learning TypeScript and Java
 - 📫 How to reach me: samuelricardods@gmail.com 
  <div>
