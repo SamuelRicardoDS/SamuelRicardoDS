@@ -1,7 +1,7 @@
 ### Heyy, sou o Samuel Ricardo 👷‍♂️👋
 
 - 🔭 I’m currently working on React and Nodejs
-- 🌱 I’m currently learning Ruby and Docker
+- 🌱 I’m currently learning AWS and Docker
 - 📫 How to reach me: samuelricardods@gmail.com 
  <div>
   <a href="https://github.com/SamuelRicardoDS">
