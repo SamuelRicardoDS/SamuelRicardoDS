@@ -1,10 +1,10 @@
 ### Heyy, sou o Samuel Ricardo 👷‍♂️👋
 
 - 🏆 Developer of CRM IntechConsig
-- 🔭 I’m currently working on React, Nodejs, AWS and Docker.m.br
+- 🔭 I’m currently working on React, Nodejs, AWS and Docker
 - 📫 How to reach me: samuelricardods@gmail.com
  <div>
-  <a href="https://www.intechconsig.com">
+  <a intech consig href="https://www.intechconsig.com">
   <a href="https://github.com/SamuelRicardoDS">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SamuelRicardoDS&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SamuelRicardoDS&layout=compact&langs_count=7&theme=dark"/>
