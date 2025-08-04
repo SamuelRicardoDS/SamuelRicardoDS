@@ -1,8 +1,8 @@
 ### Heyy, sou o Samuel Ricardo 👷‍♂️👋
 
-- 🔭 I’m currently working on React and Nodejs
-- 🌱 I’m currently learning AWS and Docker
-- 📫 How to reach me: samuelricardods@gmail.com 
+- 🏆 Developer of CRM IntechConsig <a href="https://www.intechconsig.com">
+- 🔭 I’m currently working on React, Nodejs, AWS and Docker.m.br
+- 📫 How to reach me: samuelricardods@gmail.com
  <div>
   <a href="https://github.com/SamuelRicardoDS">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SamuelRicardoDS&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
