@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on React, Nodejs, AWS and Docker
 - 📫 How to reach me: samuelricardods@gmail.com
  <div>
-  <a intech consig href="https://www.intechconsig.com">
+  <a href="https://www.intechconsig.com" target="_blank">🌐 IntechConsig (me solicite um acesso e teste um CRM líder no mercado de consignado)</a>
   <a href="https://github.com/SamuelRicardoDS">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SamuelRicardoDS&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SamuelRicardoDS&layout=compact&langs_count=7&theme=dark"/>
